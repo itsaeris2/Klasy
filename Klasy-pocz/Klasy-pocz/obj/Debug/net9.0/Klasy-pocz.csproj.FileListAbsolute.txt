@@ -1,0 +1,14 @@
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\bin\Debug\net9.0\Klasy-pocz.exe
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\bin\Debug\net9.0\Klasy-pocz.deps.json
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\bin\Debug\net9.0\Klasy-pocz.runtimeconfig.json
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\bin\Debug\net9.0\Klasy-pocz.dll
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\bin\Debug\net9.0\Klasy-pocz.pdb
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\Klasy-pocz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\Klasy-pocz.AssemblyInfoInputs.cache
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\Klasy-pocz.AssemblyInfo.cs
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\Klasy-pocz.csproj.CoreCompileInputs.cache
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\Klasy-pocz.dll
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\refint\Klasy-pocz.dll
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\Klasy-pocz.pdb
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\Klasy-pocz.genruntimeconfig.cache
+C:\Users\Uczeń\source\repos\Klasy-pocz\Klasy-pocz\obj\Debug\net9.0\ref\Klasy-pocz.dll
