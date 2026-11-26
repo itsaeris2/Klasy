@@ -43,5 +43,24 @@ namespace Klasy_pocz
             Cena = Cena * 0.9;
             Console.WriteLine("Nowa cena: " + Cena);
         }
+        public void Wyszukaj()
+        {
+            Console.WriteLine("Podaj markę:");
+            Marka = Console.ReadLine();
+
+            Console.WriteLine("Podaj model:");
+            Model = Console.ReadLine();
+
+            Console.WriteLine("Podaj cenę:");
+            double.TryParse(Console.ReadLine(), out double cena);
+            Cena = cena;
+
+            Console.WriteLine("Podaj rocznik:");
+            int.TryParse(Console.ReadLine(), out int rocznik);
+            Rocznik = rocznik;
+
+            Przebieg = 0;
+        }
+ 
     }
 }
