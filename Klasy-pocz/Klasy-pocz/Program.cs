@@ -37,7 +37,7 @@ while (menu != false)
                 break;
 
             case 6:
-                a = DodajAuto();
+                a.Wyszukaj();
                 break;
 
             default:
